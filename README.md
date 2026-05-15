@@ -9,7 +9,7 @@
 
 ## 📺 Preview
 <div align="center">
-  <video src="[download.mp4](https://github.com/user-attachments/assets/c97c5191-4ed1-4433-9dbb-f25affdbde15)" width="100%" autoplay loop muted></video>
+  [download.mp4](https://github.com/user-attachments/assets/c97c5191-4ed1-4433-9dbb-f25affdbde15)
 </div>
 
 
