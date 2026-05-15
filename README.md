@@ -8,7 +8,7 @@
 **Project Eschaton** is an advanced 3D simulation engine that models the recursive collapse and recovery of a society under the pressure of biological threats. By integrating a **Kinematics Physics Engine** with a **Macro-Economic Suite**, it visualizes the delicate balance between public health, economic supply chains, and scientific research.
 
 ## 📺 Preview
-*(Pro-tip: Record a small GIF of your simulation and place it here!)*
+![Eschaton Simulation Preview](download.mp4)
 
 ---
 
