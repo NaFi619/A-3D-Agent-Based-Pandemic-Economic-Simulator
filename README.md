@@ -10,7 +10,7 @@
 ## 📺 Preview
 ![Eschaton Preview](download.mp4)
 <div align="center">
-  <video src="https://github.com/NaFi619/A-3D-Agent-Based-Pandemic-Economic-Simulator/edit/main/README.md/simulation.mp4" width="100%" autoplay loop muted></video>
+  <video src="simulation.mp4" width="100%" autoplay loop muted></video>
 </div>
 
 ---
